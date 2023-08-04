@@ -17,3 +17,8 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+.Integrantes{
+    font-weight:bold; 
+    text-align:center;  
+    font-style: sans-serif;
+}
