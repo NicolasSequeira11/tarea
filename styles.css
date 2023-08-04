@@ -21,5 +21,17 @@ body {
     background-color: #2d4760;
     padding: 5px;
     border-radius: 5px;
+
+    box-shadow: 2px 3px #888888;
+}
+
+img{
+    transition: all 0.3s;
+}
+
+img:hover{
+    transform: scale(1.05);
+
     box-shadow: 2px 3px #222222;
+
 }
